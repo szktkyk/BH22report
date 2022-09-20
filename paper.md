@@ -21,9 +21,9 @@ affiliations:
 date: 20 September 2022
 cito-bibliography: paper.bib
 event: Japan2022
-# biohackathon_name: "NBDC/DBCLS BioHackathon"
-# biohackathon_url:   "https://wiki.lifesciencedb.jp/mw/BH22.9"
-# biohackathon_location: "Kochi, Japan, 2022"
+biohackathon_name: "NBDC/DBCLS BioHackathon"
+biohackathon_url:   "https://wiki.lifesciencedb.jp/mw/BH22.9"
+biohackathon_location: "Kochi, Japan, 2022"
 group: gem
 git_url: https://github.com/szktkyk/gem
 # This is the short authors description that is used at the
